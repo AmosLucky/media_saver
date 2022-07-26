@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1047583387520</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmlQoCF5cNwTXOu-2ICJjHlW0OCu94Tcs</string>
+    <string name="google_app_id" translatable="false">1:1047583387520:android:8ba426382c7aeb65f01b65</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmlQoCF5cNwTXOu-2ICJjHlW0OCu94Tcs</string>
+    <string name="google_storage_bucket" translatable="false">casoftech-74231.appspot.com</string>
+    <string name="project_id" translatable="false">casoftech-74231</string>
+</resources>

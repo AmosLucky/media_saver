@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1047583387520",
+    "project_id": "casoftech-74231",
+    "storage_bucket": "casoftech-74231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047583387520:android:1928246e3d78ab45f01b65",
+        "android_client_info": {
+          "package_name": "com.earndata.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmlQoCF5cNwTXOu-2ICJjHlW0OCu94Tcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047583387520:android:5f0a92c92639c1abf01b65",
+        "android_client_info": {
+          "package_name": "com.lucky.earncoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmlQoCF5cNwTXOu-2ICJjHlW0OCu94Tcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047583387520:android:8ba426382c7aeb65f01b65",
+        "android_client_info": {
+          "package_name": "com.media_saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmlQoCF5cNwTXOu-2ICJjHlW0OCu94Tcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047583387520:android:efe2f3f136b4fd09f01b65",
+        "android_client_info": {
+          "package_name": "dataminners.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmlQoCF5cNwTXOu-2ICJjHlW0OCu94Tcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047583387520-oj585635mvib8bifpm5rsfvp5099tllc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
